@@ -1,0 +1,7 @@
+{
+  "name": "HR Accessories",
+  "description": "متجر HR Accessories للحقائب الملكية والإكسسوارات الفاخرة - بغداد، العراق.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
